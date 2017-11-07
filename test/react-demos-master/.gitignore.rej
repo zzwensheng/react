@@ -1,0 +1,4 @@
+diff a/test/react-demos-master/.gitignore b/test/react-demos-master/.gitignore	(rejected hunks)
+@@ -0,0 +1,2 @@
++example/
++node_modules
